@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 📫 How to reach me **gopal.josh@gmail.com**
+- 📫 How to reach me **gopal.josh73@gmail.com**
 
 - 💬 Ask me about **Node.js, ReactJS, AWS, Python, Numpy, Pandas, Seaborn, Matplotlib, Beautiful Soup, Machine Learning Algorithms**
 
