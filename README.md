@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Gopal Joshi</h1>
 <h3 align="left">A Software Enginner and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on Node.JS, ReactJS and other JavaScript frameworks and Python as Sr. Software Enginner and building OOT platform
+- 🔭 I’m currently working on Node.JS, ReactJS and other JavaScript frameworks and Python as Sr. Software Enginner and building OTT platform
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
