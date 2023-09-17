@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Gopal Joshi</h1>
 <h3 align="left">A Software Enginner and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on Node.JS, ReactJS and other JavaScript frameworks and Python as Sr. Software Enginner and building OTT platform
+- 🔭 I’m currently working on Node.JS, Python, LLM and other JavaScript frameworks
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 Actively working on **large language models and ML**
 
 - 📫 How to reach me **gopal.josh73@gmail.com**
 
-- 💬 Ask me about **Node.js, ReactJS, AWS, Python, Numpy, Pandas, Seaborn, Matplotlib, Beautiful Soup, Machine Learning Algorithms**
+- 💬 Ask me about **Node.js, ReactJS, LLM, AWS, Python, Numpy, Pandas, Seaborn, Matplotlib, Beautiful Soup, Machine Learning Algorithms**
 
 - 🖥️ Check my ML programs @ https://github.com/spjoshis/Machine-Learning
 
