@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Node.JS, Python, LLM and other JavaScript frameworks
 
-- 🌱 Actively working on **large language models and ML**
+- 🌱 Actively working on **large language models and machine learning**
 
 - 📫 How to reach me **gopal.josh73@gmail.com**
 
