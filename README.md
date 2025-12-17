@@ -1,21 +1,42 @@
 <h1 align="left">Hi 👋, I'm Gopal Joshi</h1>
-<h3 align="left">A Software Enginner and Machine Learning Enthusiast</h3>
+<h3 align="left">Software Engineer • Machine Learning & LLM Enthusiast • AI Agent Developer</h3>
 
-- 🔭 I’m currently working on LLM, AI Agents , Node.JS, Python and other JavaScript frameworks
+---
 
-- 🌱 Actively working on **large language models and machine learning**
+### 🚀 About Me
+- 🔭 Currently working with **LLMs, AI Agents, Node.js, Python**, and modern JavaScript frameworks  
+- 🌱 Actively exploring **Large Language Models, Reinforcement Learning, and applied Machine Learning**  
+- 💬 Ask me about:  
+  **LLMs, Reinforcement Learning, AI Agents, Node.js, React.js, AWS, Python, NumPy, Pandas, Seaborn, Matplotlib, BeautifulSoup, ML Algorithms**
+- 📫 Reach me at: **gopal.josh73@gmail.com**
 
-- 📫 How to reach me **gopal.josh73@gmail.com**
+---
 
-- 💬 Ask me about **LLM, Rainforcement Learning, Node.js, AI Agents,  LLM, ReactJS, AWS, Python, Numpy, Pandas, Seaborn, Matplotlib, Beautiful Soup, Machine Learning Algorithms**
+### 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spjoshis&show_icons=true&locale=en&layout=compact" alt="spjoshis" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spjoshis&show_icons=true&locale=en" alt="spjoshis" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spjoshis&" alt="spjoshis" /></p> -->
-
-<h3 align="center">Reach me at</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/gopal-joshi-971b9865/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vanshika-mishra2308" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/gopalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mvanshika" height="30" width="40" /></a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spjoshis&show_icons=true&locale=en&layout=compact" alt="spjoshis" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spjoshis&show_icons=true&locale=en" alt="spjoshis" />
 </p>
+
+<br/><br/><br/>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gopal-joshi-971b9865/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/gopalj" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### ⭐ More coming soon…
+I regularly work on AI-driven applications, ML research experiments, RL trading agents, and large-scale backend systems. Stay tuned for upcoming projects!
+
