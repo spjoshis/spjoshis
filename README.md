@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gopal Joshi</h1>
-<h3 align="left">Software Engineer • Machine Learning & LLM Enthusiast • AI Agent Developer</h3>
+<h3 align="left">Software Engineer • Machine Learning • Vibe Coder • AI Agent Developer</h3>
 
 ---
 
