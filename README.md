@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gopal Joshi</h1>
-<h3 align="left">Software Engineer • Machine Learning • Vibe Coder • AI Agent Developer</h3>
+<h3 align="left">AI Industry Leader • Vibe Coder</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🔭 Currently working with **LLMs, AI Agents, Node.js, Python**, and modern JavaScript frameworks  
 - 🌱 Actively exploring **Large Language Models, Reinforcement Learning, and applied Machine Learning**  
 - 💬 Ask me about:  
-  **LLMs, Reinforcement Learning, AI Agents, Node.js, React.js, AWS, Python, NumPy, Pandas, Seaborn, Matplotlib, BeautifulSoup, ML Algorithms**
+  **LLMs, Reinforcement Learning, AI Agents, Node.js, React.js, AWS, Python, Rust, Go, NumPy, Pandas, Seaborn, Matplotlib, BeautifulSoup, ML Algorithms**
 - 📫 Reach me at: **gopal.josh73@gmail.com**
 
 ---
